@@ -1,0 +1,2 @@
+step 1:open and sign in n8n step 2:Add Manual Trigger step 3:Add Google Sheets (Read rows) step 4:Add IF node step 5:Connect IF → TRUE → Google Sheets (Append to sheet) step 6:Connect IF → FALSE → Google Sheets (Append to sheet1)
+<img width="1651" height="635" alt="517793724-858f4638-b714-4747-af16-94289462a3f6" src="https://github.com/user-attachments/assets/30ce1359-3c3f-4cf4-8f90-9e14806f93cb" />
